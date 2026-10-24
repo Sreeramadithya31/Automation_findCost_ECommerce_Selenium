@@ -1,0 +1,6 @@
+{
+  "url": "https://example.com",
+  "price_selector": ".price",
+  "headless": false,
+  "wait_seconds": 10
+}\n
